@@ -1,0 +1,48 @@
+
+{
+  "project_info": {
+    "project_number": "322325997544",
+    "project_id": "correspondenciainti-91e91",
+    "storage_bucket": "correspondenciainti-91e91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322325997544:android:038c2e8d606f5b2e36a65d",
+        "android_client_info": {
+          "package_name": "bo.com.inti.correspondencia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322325997544-f0ng9d253cc7pa91p1tto3k8b286j7pl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bo.com.inti.correspondencia",
+            "certificate_hash": "5942afe0aa75c94197a3a4b1c3f94a77a2d46713"
+          }
+        },
+        {
+          "client_id": "322325997544-o4huc5ckks9bl84j8g3iimrdupi9s7et.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0QUGsbarvlNTxuloYrteYsgAdV-J2Hus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322325997544-o4huc5ckks9bl84j8g3iimrdupi9s7et.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
